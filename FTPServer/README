@@ -7,9 +7,7 @@ Version Number: 1.0
 | Introduction |
 +--------------+
 
-This is the README file for the FTPServer program. This program, when run, starts a server linked to a directory on the computer that is
-running the program. The server will wait for a connection from a client. Once a client is connected, they are able to upload files to the
-server, as well as download files from the server. No security measures or encryption are put in place for the connection or file transfer.
+This is the README file for the FTPServer program. This program, when run, starts a server linked to a directory on the computer that is running the program. The server will wait for a connection from a client. Once a client is connected, they are able to upload files to the server, as well as download files from the server. No security measures or encryption are put in place for the connection or file transfer.
 
 +------+
 | Bugs |
